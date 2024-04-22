@@ -1,3 +1,10 @@
+# The Pi-RealX Marketplace App. Protocol
+This Is The Pi-RealX Marketplace App On The Pi Network documentation. 
+Aiming to provide digital asset exchange value for tokenized whole / fractional real estate investments.
+crowdfund for real estate development and management projects. 
+This app will ensure the facilitation of seamless transactions of physical holding of real estate asset.
+Upon successful deployment of the Pi-RealX Marketplace App, will issue, distribute and manage on behalf of real estate investors' digital asset on Invex tokens, which would be representing physical holding of the ownership rights in real estate, effectively providing trust and security on digital asset investment process on the Pi Network.... Editing continues
+
 # Pi Demo App
 
 Pi Demo App is an example of how you can implement the various required flows in your app's code.
